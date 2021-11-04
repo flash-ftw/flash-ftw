@@ -21,9 +21,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 🔭 I’m currently working on [TROVO](https://trovo.live/_flash_).
+- 🌱 I’m currently learning more about Hijacking.
+- 👯 I’m looking to collaborate on [Gaming Stream](https://www.facebook.com/trynnausethishuh/).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
