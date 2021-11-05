@@ -24,16 +24,10 @@
 - 🔭 I’m currently working on [TROVO](https://trovo.live/_flash_).
 - 🌱 I’m currently learning more about Hijacking.
 - 👯 I’m looking to collaborate on [Gaming Stream](https://www.facebook.com/trynnausethishuh/).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- 💬 Ask me about any tech-related stuff.
+- ⚡ Fun fact: I spend almost 24 hours listening to songs every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+
 
 
 **Languages and Tools:**  
