@@ -45,16 +45,3 @@
 <a href="https://github.com/flash-ftw">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flash-ftw&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/flash-ftw/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flash-ftw&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/flash-ftw/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flash-ftw&repo=VelocityX&theme=light" />
-</a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
